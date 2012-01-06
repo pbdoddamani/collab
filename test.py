@@ -1,2 +1,4 @@
 def test():
-   print "TEST"
+	print "TEST"
+
+	return "pass"
